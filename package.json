@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@sanity/client": "^4.0.1",
+    "@sanity/image-url": "^1.0.1",
+    "dotenv": "^16.0.3",
     "flowbite": "^1.6.0",
     "flowbite-react": "^0.3.7",
     "react": "^18.2.0",

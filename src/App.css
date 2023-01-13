@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* @media(width>=768px) {
+    ::-webkit-scrollbar {
+        width: 16px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #c1c1c1;
+        border-radius: 8px;
+        border: 2px solid #f1f1f1;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #a4a4a4;
+    }
+} */

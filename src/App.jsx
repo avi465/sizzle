@@ -3,8 +3,7 @@ import { useState } from 'react'
 import './App.css'
 
 import Header from './components/Header'
-import Hero from './components/Hero'
-import Card from './components/Card'
+import Menu from './components/Menu'
 import Footer from './components/Footer'
 
 function App() {
@@ -13,8 +12,7 @@ function App() {
   return (
     <>
       <Header />
-      <Hero />
-      <Card />
+      <Menu />
       <Footer />
     </>
   )

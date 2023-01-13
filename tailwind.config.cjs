@@ -12,6 +12,11 @@ module.exports = {
       gridTemplateColumns: {
         // for card to fit and adjust according to screen
         'card': 'repeat(auto-fit, minmax(200px, 1fr))',
+      },
+      color: {
+        transparent: 'transparent',
+        current: 'currentColor',
+        'primary': '#E74E35'
       }
     },
   },
